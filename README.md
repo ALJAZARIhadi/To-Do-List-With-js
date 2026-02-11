@@ -4,4 +4,30 @@
 
 <img width="924" height="494" alt="Image" src="https://github.com/user-attachments/assets/8710c6a9-6a95-4cfc-82ac-f28e9c0d0870" />
 
-Simple to do list with local storage build in JS CSS HTML
+# 📝 To-Do List App (JavaScript)
+
+A clean and interactive **To-Do List Web Application** built using **HTML, CSS, and Vanilla JavaScript**.  
+This project allows users to add, complete, and delete tasks in a simple and modern UI.
+
+---
+
+## 🚀 Features
+
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- ❌ Delete tasks
+- 🎨 Modern gradient UI design
+- 📱 Responsive layout
+- ⚡ Smooth interactions
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)
+
+---
+
+## 📂 Project Structure
