@@ -31,3 +31,35 @@ This project allows users to add, complete, and delete tasks in a simple and mod
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## 🧠 What I Learned
+
+- DOM Manipulation
+- Event Handling
+- Creating elements dynamically
+- Working with classList
+- Handling user input
+- Improving UI/UX with CSS
+
+---
+
+## 🔮 Future Improvements
+
+- 💾 Save tasks in Local Storage
+- 🗂️ Filter tasks (All / Completed / Pending)
+- ✏️ Edit existing tasks
+- 🌙 Dark Mode
+- 📅 Add due dates
+
+---
+
+## 👨‍💻 Author
+
+**AbdUlhadi Kezza**
+
+---
+
+⭐ If you like this project, give it a star!
